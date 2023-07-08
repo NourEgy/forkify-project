@@ -158,7 +158,7 @@ const controlAddRecipe = async function(newRecipe) {
 
 // app massate
 const newFeature = function() {
-    console.log("Welcome to Application");
+    console.log("Welcome to App!");
 }
 // Init Heandler
 const init = function() {
