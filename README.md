@@ -8,7 +8,7 @@ Forkify project Recipe application with custom recipe uploads, built with HTML5,
 
 <h2>Main Futures</h2>
 <ul>
-   <li>Creative Layout</li>
+  <li>Creative Layout</li>
   <li>Retina Ready</li>
   <li>search for recipes</li>
   <li>Show recipe details</li>
@@ -16,7 +16,6 @@ Forkify project Recipe application with custom recipe uploads, built with HTML5,
   <li>bookmark recipe</li>
   <li>pages in paganation in search</li>
 </ul>
-
 
 <h2>Built with</h2>
 <ul>
